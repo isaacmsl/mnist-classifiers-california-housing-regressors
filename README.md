@@ -69,4 +69,7 @@ This project aims to reinforce understanding of:
 
 ---
 
-Feel free to explore the notebooks and modify the experiments for your own learning!
+## Authors
+
+| [<img src="https://github.com/isaacmsl.png" width=60><br><sub>@isaacmsl</sub>](https://github.com/isaacmsl) | [<img src="https://github.com/joseemds.png" width=60><br><sub>@joseemds</sub>](https://github.com/joseemds) | [<img src="https://github.com/shgates.png" width=60><br><sub>@shgates</sub>](https://github.com/shgates) |
+| :---: | :---: | :---: |
